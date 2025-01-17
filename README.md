@@ -16,4 +16,4 @@ To achieve this first of all under the Power Pivot pane an existing relationship
 
 Proceeding, we use a similar syntax to the previous but we enclose the second table in this syntax**Related()**
 
->salesamount= products[unitprice]*Related([products[quantityordered]]
+>salesamount= products[unitprice]*Related([products[quantityordered])
