@@ -4,3 +4,8 @@
 
 Columnname= table1name[columnname]* table2name[columnname ] 
 
+Example
+> salesamount= produts[unitprice]* products[quantityordered]
+
+
+
