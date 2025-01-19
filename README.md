@@ -25,6 +25,6 @@ Similar to SQL we can merge two or more datasets together. In SQL, the syntax wo
 
 And just like with the UNION syntax similar rules of a merge carry over. The two datasets being merged must have the same structure ie. same column names and same number of columns.
 
-<B>Example
+<I>Example
 
 
