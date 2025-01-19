@@ -53,7 +53,7 @@ After the dataset has been set as a reference, it will be added as a duplicate d
 
 <b> Step 3 
 
-Click the Append Option in the File Page of Power Query
+Click the Append Option in the Home Page of Power Query
 
 ![image](https://github.com/user-attachments/assets/8b9124c6-398c-4e81-9c9a-65eb32faa193)
 
