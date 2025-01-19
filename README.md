@@ -66,6 +66,11 @@ The steps to merge are similar to those of append except in the Home Tab we clic
 
 ![image](https://github.com/user-attachments/assets/81579a89-2379-45ec-b85d-1beb3755f1d4)
 
+![image](https://github.com/user-attachments/assets/8a44940c-8a2f-4c78-9848-e976fbe43663)
+
+![image](https://github.com/user-attachments/assets/d04599e6-f3c7-46ba-bdc2-3189aa68a1ea)
+
+
 ## Triming Rows by Character Size 
 This is a simple task done by the Extract pane under the Transform Tab 
 
@@ -108,11 +113,6 @@ The two options to iniate a replace (Under the transform tab / Right Click)
 ![image](https://github.com/user-attachments/assets/277ef3e0-4260-41db-b23f-c7224d01fcee)
 
 ![image](https://github.com/user-attachments/assets/80a0d552-2d9a-4fd7-bb26-a4ae2f1ede50)
-
-![image](https://github.com/user-attachments/assets/8a44940c-8a2f-4c78-9848-e976fbe43663)
-
-![image](https://github.com/user-attachments/assets/d04599e6-f3c7-46ba-bdc2-3189aa68a1ea)
-
 
 
 ## Triming 
