@@ -27,11 +27,13 @@ And just like with the UNION syntax similar rules of a merge carry over. The two
 
 <ins>Example
 Merge the top categories of movies from the following website: 
+
 https://www.boxofficemojo.com/chart/top_lifetime_gross/?area=XWW
 
 ![image](https://github.com/user-attachments/assets/32cfc165-3a76-42ee-ac5e-d4f2bc2be960)
 
 <b> Step 1 
+
 Upload the datasets from the web using the URL from each categrories of the top shows starting with the top 200 of all time.
 
 ![image](https://github.com/user-attachments/assets/5c5f4f17-ad54-4111-9d05-2c7fda5b9d5a)
@@ -41,6 +43,7 @@ Use the New Source pane to quickly add the other datasets
 ![image](https://github.com/user-attachments/assets/478735b4-0d9f-4cde-af93-02bf818349f2)
 
 <b> Step 2 
+
 Set the first dataset as a reference. And it will be picked up as the dataset the others will be joined to.
 Do this by right-clicking the dataset and clicking reference 
 
@@ -49,8 +52,9 @@ Do this by right-clicking the dataset and clicking reference
 After the dataset has been set as a reference, it will be added as a duplicate dataset at the bottom of the page. It is wise to rename it ; in this case it will be renamed Top Sales.
 
 <b> Step 3 
+
 Click the Append Option in the File Page of Power Query
 
 ![image](https://github.com/user-attachments/assets/8b9124c6-398c-4e81-9c9a-65eb32faa193)
 
-Select the other datasets and perdform the append.
+Select the other datasets and perform the append.
