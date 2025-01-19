@@ -109,6 +109,11 @@ The two options to iniate a replace (Under the transform tab / Right Click)
 
 ![image](https://github.com/user-attachments/assets/80a0d552-2d9a-4fd7-bb26-a4ae2f1ede50)
 
+![image](https://github.com/user-attachments/assets/8a44940c-8a2f-4c78-9848-e976fbe43663)
+
+![image](https://github.com/user-attachments/assets/d04599e6-f3c7-46ba-bdc2-3189aa68a1ea)
+
+
 
 ## Triming 
 
@@ -117,8 +122,3 @@ Triming involves removing uncessary white space, usually at the end/the start of
 This is done by right-clicking, then transform then trim. 
 
 ![image](https://github.com/user-attachments/assets/68153ff1-5441-45cc-b2ec-a141bc4c4c3f)
-
-![image](https://github.com/user-attachments/assets/8a44940c-8a2f-4c78-9848-e976fbe43663)
-
-![image](https://github.com/user-attachments/assets/d04599e6-f3c7-46ba-bdc2-3189aa68a1ea)
-
