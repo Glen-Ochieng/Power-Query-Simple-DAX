@@ -59,9 +59,67 @@ Click the Append Option in the Home Page of Power Query
 
 Select the other datasets and perform the append.
 
+## Merging Datasets
+While appending joins datasets by joining the second at the bottom of the first one, merging joins the two side by side using a common column. 
+
+The steps to merge are similar to those of append except in the Home Tab we click Merge in stead of Append.
 
 ## Triming Rows by Character Size 
+
+![image](https://github.com/user-attachments/assets/81579a89-2379-45ec-b85d-1beb3755f1d4)
 
 This is a simple task done by the Extract pane under the Transform Tab 
 
 ![image](https://github.com/user-attachments/assets/48377c3a-c2d4-4c70-821d-82a9a7eef97c)
+
+NB: This automatically transforms this column data type to text.
+
+Which luckily you can easily change back to the numeric data type.
+
+![image](https://github.com/user-attachments/assets/21e4a691-4abc-4218-be37-4df967b4baf6)
+
+
+## Spliting Columns By Delimiter
+This is done by selecting the split column pane in the Home Tab. Or if there is a column with special characters present the option appears under the right-click pane.
+
+![image](https://github.com/user-attachments/assets/9650e864-b866-44bf-9040-0c0ba4a99676)
+
+![image](https://github.com/user-attachments/assets/4fad9daf-4112-4b74-b3f4-b274d41a5dcf)
+
+![image](https://github.com/user-attachments/assets/5d9e9fdd-2d29-411f-9f4f-244a21484fb1)
+
+
+![image](https://github.com/user-attachments/assets/312d6c0d-03e8-429c-8666-125813c17b89)
+
+
+## Removing special characters
+
+One shortcut to achieve this is to replace them with nothing.
+
+<ins>Example
+
+Replace the closing brackets in the rows of this column.
+
+![image](https://github.com/user-attachments/assets/061a9a2a-ec43-4f76-8a39-8670f4014de7)
+
+The two options to iniate a replace (Under the transform tab / Right Click)
+
+![image](https://github.com/user-attachments/assets/37a02c09-7ead-4496-bc4f-746ac7a31916)
+
+![image](https://github.com/user-attachments/assets/277ef3e0-4260-41db-b23f-c7224d01fcee)
+
+![image](https://github.com/user-attachments/assets/80a0d552-2d9a-4fd7-bb26-a4ae2f1ede50)
+
+
+## Triming 
+
+Triming involves removing uncessary white space, usually at the end/the start of the row entry.
+
+This is done by right-clicking, then transform then trim. 
+
+![image](https://github.com/user-attachments/assets/68153ff1-5441-45cc-b2ec-a141bc4c4c3f)
+
+![image](https://github.com/user-attachments/assets/8a44940c-8a2f-4c78-9848-e976fbe43663)
+
+![image](https://github.com/user-attachments/assets/d04599e6-f3c7-46ba-bdc2-3189aa68a1ea)
+
