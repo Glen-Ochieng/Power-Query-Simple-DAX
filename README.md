@@ -17,3 +17,13 @@ To achieve this first of all under the Power Pivot pane an existing relationship
 Proceeding, we use a similar syntax to the previous but we enclose the second table in this syntax**Related()**
 
 >salesamount= products[unitprice]*Related([products[quantityordered])
+
+
+## Appending datasets 
+
+Similar to SQL we can merge two or more datasets together. In SQL, the syntax would be UNION.
+
+And just like with the UNION syntax similar rules of a merge carry over. The two datasets being merged must have the same structure ie. same column names and same number of columns.
+
+<u> Example
+
