@@ -64,10 +64,9 @@ While appending joins datasets by joining the second at the bottom of the first 
 
 The steps to merge are similar to those of append except in the Home Tab we click Merge in stead of Append.
 
-## Triming Rows by Character Size 
-
 ![image](https://github.com/user-attachments/assets/81579a89-2379-45ec-b85d-1beb3755f1d4)
 
+## Triming Rows by Character Size 
 This is a simple task done by the Extract pane under the Transform Tab 
 
 ![image](https://github.com/user-attachments/assets/48377c3a-c2d4-4c70-821d-82a9a7eef97c)
