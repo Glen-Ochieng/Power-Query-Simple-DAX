@@ -58,3 +58,10 @@ Click the Append Option in the Home Page of Power Query
 ![image](https://github.com/user-attachments/assets/8b9124c6-398c-4e81-9c9a-65eb32faa193)
 
 Select the other datasets and perform the append.
+
+
+## Triming Rows by Character Size 
+
+This is a simple task done by the Extract pane under the Transform Tab 
+
+![image](https://github.com/user-attachments/assets/48377c3a-c2d4-4c70-821d-82a9a7eef97c)
