@@ -129,3 +129,14 @@ This quick function will combine the individual elements of a string column into
 It is usually while using the table chart as it can function as a pivot table where the list is grouped by a particular column. 
 
 <i>For example
+
+We can make a table that highlights all the country each product was sold to 
+
+<img width="778" alt="image" src="https://github.com/user-attachments/assets/aa857798-9cc9-4426-88f4-c39145ae5604" />
+
+<i>The 3 means after the third country on the list it will write etc. as a short form.
+
+<img width="356" alt="image" src="https://github.com/user-attachments/assets/d8961ab2-fefe-4d87-bab1-b4aa98c966a5" />
+
+
+
