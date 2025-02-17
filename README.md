@@ -122,3 +122,10 @@ Triming involves removing uncessary white space, usually at the end/the start of
 This is done by right-clicking, then transform then trim. 
 
 ![image](https://github.com/user-attachments/assets/68153ff1-5441-45cc-b2ec-a141bc4c4c3f)
+
+## Using The Quick Measure- Concatenated List of Values 
+This quick function will combine the individual elements of a string column into a horizontal list. 
+
+It is usually while using the table chart as it can function as a pivot table where the list is grouped by a particular column. 
+
+<i>For example
